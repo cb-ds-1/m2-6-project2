@@ -25,7 +25,6 @@ gdp = pd.read_csv('data/canadian-gdp-1960-2020.csv')
 
 def truncate_top_bottom():
     global gdp
-    print(gdp)
     """
     We replace nan's with empty strings in the first column
     """

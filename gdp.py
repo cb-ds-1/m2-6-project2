@@ -5,7 +5,8 @@ import sys
 USAGE:
 
 1) Download the following table
-    - https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3610043401 : be sure to use the "Download Entire table" option"
+    - https://www150.statcan.gc.ca/t1/tbl1/en/cv!recreate.action?pid=3610043401&selectedNodeIds=2D1,3D1,4D16,4D17,4D19,4D20,4D21,4D22,4D23,4D24,4D25,4D26,4D27,4D28,4D31,4D44,4D45,4D46,4D47,4D48,4D49,4D50,4D51,4D52,4D53,4D54,4D55,4D65,4D70,4D73,4D77,4D80,4D81,4D84,4D92,4D95,4D98,4D104,4D113,4D121,4D127,4D132,4D142,4D146,4D160,4D161,4D162,4D163,4D164,4D165,4D166,4D167,4D168,4D169,4D170,4D171,4D189,4D198,4D199,4D206,4D209,4D274,4D276,4D277,4D287&checkedLevels=0D1&refPeriods=19970501,20201101&dimensionLayouts=layout2,layout2,layout2,layout3,layout2&vectorDisplay=false
+    : be sure to use the "Download Entire table" option"
 2) make sure you save it as 'gdp-canada.csv' file inside of the data folder
 3) create actionable dataframe like so:
 

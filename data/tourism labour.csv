@@ -1,0 +1,12 @@
+"REF_DATE","GEO","DGUID","Indicator","Work activity","Sex","Age","Immigrant status","Industry","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
+"2018","Canada","2016A000011124","Number of jobs","Total, full-time and part-time jobs","Both sexes","All ages","Total, immigrant and non-immigrant jobs","Total, industry","Jobs","190","units","0","v1212274535","1.1.1.1.1.1.1","1726771","","","","0"
+"2018","Canada","2016A000011124","Number of jobs","Total, full-time and part-time jobs","Both sexes","All ages","Immigrant jobs","Total, industry","Jobs","190","units","0","v1212274655","1.1.1.1.1.2.1","480817","","","","0"
+"2018","Canada","2016A000011124","Number of jobs","Total, full-time and part-time jobs","Both sexes","All ages","Non-immigrant jobs","Total, industry","Jobs","190","units","0","v1212274775","1.1.1.1.1.3.1","1245955","","","","0"
+"2018","Canada","2016A000011124","Number of jobs","Total, full-time and part-time jobs","Females","All ages","Total, immigrant and non-immigrant jobs","Total, industry","Jobs","190","units","0","v1212276335","1.1.1.2.1.1.1","929797","","","","0"
+"2018","Canada","2016A000011124","Number of jobs","Total, full-time and part-time jobs","Females","All ages","Immigrant jobs","Total, industry","Jobs","190","units","0","v1212276455","1.1.1.2.1.2.1","237243","","","","0"
+"2018","Canada","2016A000011124","Number of jobs","Total, full-time and part-time jobs","Females","All ages","Non-immigrant jobs","Total, industry","Jobs","190","units","0","v1212276575","1.1.1.2.1.3.1","692554","","","","0"
+"2018","Canada","2016A000011124","Number of jobs","Total, full-time and part-time jobs","Males","All ages","Total, immigrant and non-immigrant jobs","Total, industry","Jobs","190","units","0","v1212278135","1.1.1.3.1.1.1","796975","","","","0"
+"2018","Canada","2016A000011124","Number of jobs","Total, full-time and part-time jobs","Males","All ages","Immigrant jobs","Total, industry","Jobs","190","units","0","v1212278255","1.1.1.3.1.2.1","243574","","","","0"
+"2018","Canada","2016A000011124","Number of jobs","Total, full-time and part-time jobs","Males","All ages","Non-immigrant jobs","Total, industry","Jobs","190","units","0","v1212278375","1.1.1.3.1.3.1","553401","","","","0"
+
+

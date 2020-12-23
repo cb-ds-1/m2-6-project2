@@ -1,0 +1,6 @@
+"REF_DATE","GEO","DGUID","Immigrant status","Labour force characteristics","Age group","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
+"2018","Canada","2016A000011124","Total population","Labour force","15 years and over","Persons","249","thousands","3","v53037418","1.1.2.1","19812.8","","","","1"
+"2018","Canada","2016A000011124","Landed immigrants","Labour force","15 years and over","Persons","249","thousands","3","v53037438","1.2.2.1","4939.5","","","","1"
+"2018","Canada","2016A000011124","Born in Canada","Labour force","15 years and over","Persons","249","thousands","3","v53037518","1.6.2.1","14391.9","","","","1"
+
+
